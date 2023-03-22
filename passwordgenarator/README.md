@@ -4,7 +4,7 @@
 
 
 
-![image]([url](https://github.com/parzivalhaliday/python-apps/blob/main/passwordgenarator/image.png))
+[![image]([url](https://github.com/parzivalhaliday/python-apps/blob/main/passwordgenarator/image.png))](https://github.com/parzivalhaliday/python-apps/blob/main/passwordgenarator/image.png)
 
   
 This program is an application that helps users create passwords. It generates random passwords of a specified length at the request of the user, meeting the minimum requirements of including at least 2 digits, 2 uppercase letters, and 3 special characters.
