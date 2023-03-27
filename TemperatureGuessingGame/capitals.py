@@ -49,7 +49,7 @@ capitals = {
     "Switzerland": "Bern",
     "Taiwan": "Taipei",
     "Thailand": "Bangkok",
-    "Turkey": "Ankara",
+    "Turkiye": "Ankara",
     "Ukraine": "Kyiv",
     "United Arab Emirates": "Abu Dhabi",
     "United Kingdom": "London",
