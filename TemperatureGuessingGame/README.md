@@ -24,7 +24,7 @@ This program requires the following Python libraries to be installed:
 Additionally, the program imports a dictionary of country-capital pairs from the capitals.py file.
 
 ## API Key
-To use the OpenWeatherMap API, you will need to obtain an API key from their website. Once you have obtained an API key, replace the `api_key` variable in the `temperature_guessing_game.py` file with your own API key.
+To use the [OpenWeatherMap API](https://home.openweathermap.org/), you will need to obtain an API key from their website. Once you have obtained an API key, replace the `api_key` variable in the `temperature_guessing_game.py` file with your own API key.
 
 ## Acknowledgements
 
