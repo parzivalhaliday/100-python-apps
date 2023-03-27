@@ -3,7 +3,7 @@ import random
 import time
 from capitals import capitals  # a dictionary of country-capital pairs
 
-api_key = "bc9ee4dc966affd2c33c7358511d1510"
+api_key = "api key"
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 # Function to get the temperature and weather for a given city using OpenWeatherMap API
