@@ -28,7 +28,7 @@ Install the required libraries using the following command:
 
 *`pip install -r requirements.txt`*
 
-Sign up for an API key from OpenWeatherMap.
+[Sign up for an API key from OpenWeatherMap](https://home.openweathermap.org/api_keys).
 Replace the `api_key` variable in the script with your API key.
 Run the script and enter the city name when prompted.
 The image will be displayed on the screen.
