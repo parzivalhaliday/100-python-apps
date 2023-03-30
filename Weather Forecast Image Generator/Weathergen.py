@@ -5,7 +5,8 @@ import matplotlib.pyplot as plt   # Import module for displaying images
 import seaborn as sns   # Import module for color palette
 
 # OpenWeatherMap API key
-api_key = 'bc9ee4dc966affd2c33c7358511d1510'
+
+api_key = 'api key' # https://home.openweathermap.org/api_keys
 
 # Get city name from user input
 city = input('For which city would you like to know the weather? ')
