@@ -5,10 +5,15 @@ This Python script generates an image that displays the 3-hour weather forecast 
 ## Libraries Used
 
 `calendar` for day abbreviations and names
+
 `requests` for making HTTP requests to the API
+
 `PIL` (Python Imaging Library) for creating and manipulating the image
+
 `matplotlib` for displaying the image
+
 `seaborn` for setting the color palette of the plot
+
 
 ## API Key
 
