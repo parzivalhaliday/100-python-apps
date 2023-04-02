@@ -1,0 +1,84 @@
+{
+    "popular_coins": [
+        {
+            "name": "Bitcoin",
+            "symbol": "btc"
+        },
+        {
+            "name": "Ethereum",
+            "symbol": "eth"
+        },
+        {
+            "name": "Binance Coin",
+            "symbol": "bnb"
+        },
+        {
+            "name": "Cardano",
+            "symbol": "ada"
+        },
+        {
+            "name": "Dogecoin",
+            "symbol": "doge"
+        },
+        {
+            "name": "XRP",
+            "symbol": "xrp"
+        },
+        {
+            "name": "Solana",
+            "symbol": "sol"
+        },
+        {
+            "name": "Polkadot",
+            "symbol": "dot"
+        },
+        {
+            "name": "USD Coin",
+            "symbol": "usdc"
+        },
+        {
+            "name": "Tether",
+            "symbol": "usdt"
+        },
+        {
+            "name": "Bitcoin Cash",
+            "symbol": "bch"
+        },
+        {
+            "name": "Chainlink",
+            "symbol": "link"
+        },
+        {
+            "name": "Litecoin",
+            "symbol": "ltc"
+        },
+        {
+            "name": "Ethereum Classic",
+            "symbol": "etc"
+        },
+        {
+            "name": "Shiba Inu",
+            "symbol": "shib"
+        },
+        {
+            "name": "Polygon",
+            "symbol": "matic"
+        },
+        {
+            "name": "Wrapped Bitcoin",
+            "symbol": "wbtc"
+        },
+        {
+            "name": "Internet Computer",
+            "symbol": "icp"
+        },
+        {
+            "name": "Stellar",
+            "symbol": "xlm"
+        },
+        {
+            "name": "Filecoin",
+            "symbol": "fil"
+        }
+    ]
+}
