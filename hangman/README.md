@@ -5,7 +5,9 @@ This is a simple implementation of the classic Hangman game in Python. In this g
 This game requires the `random_words` library to be installed. You can install it using the following command:
 
 
-```pip install random_words```
+```python
+pip install random_words
+```
 
 ## How to Play
 To play the game, simply run the `hangman.py` file using Python. The game will generate a random word, and you will see a series of underscores representing the letters in the word. You need to guess the letters one at a time by typing them into the console. If the letter is in the word, it will be revealed in the correct position. If it is not in the word, the computer will draw a part of the hanging man.
