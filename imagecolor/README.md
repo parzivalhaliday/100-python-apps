@@ -1,5 +1,6 @@
 ## Image Color Analysis Tool
 This is a simple Python tool that analyzes an image and displays a bar chart of the top 10 most common colors in the image.
+![image](https://github.com/parzivalhaliday/python-apps/blob/main/imagecolor/image.png)
 
 # Usage
 1. Clone this repository to your local machine or download the code as a ZIP file and extract it.
