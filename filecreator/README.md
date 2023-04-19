@@ -23,7 +23,6 @@ The script supports the following file extensions:
 
 ```
 "This is a test file."
-
 ```
 
 
@@ -48,7 +47,7 @@ console.log('This file was automatically generated.'))
 - `.css`:  CSS file. Default content:
 
 ```css
- CSS file. Default content: body { background-color: lightblue; }
+body { background-color: lightblue; }
  ```
 
 If a file with a different extension is created, the default content will be "This is a test file."
@@ -58,7 +57,7 @@ If a file with a different extension is created, the default content will be "Th
 
 ## License
 
-This project is licensed under the terms of the MIT license.
+This code is licensed under the MIT License. Feel free to use and modify it for your own purposes.
 
 
 
