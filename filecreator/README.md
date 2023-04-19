@@ -21,7 +21,10 @@ The script supports the following file extensions:
 
 - `.txt`: Plain text file. Default content: "This is a test file."
 
-- `.py`: Python script. Default content: print('This file was automatically generated.')
+- `.py`: Python script. Default content:
+```python
+ print('This file was automatically generated.')
+ ```
 
 - `.js`: JavaScript file. Default content: console.log('This file was automatically generated.');
 
