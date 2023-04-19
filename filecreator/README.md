@@ -21,16 +21,31 @@ The script supports the following file extensions:
 
 - `.txt`: Plain text file. Default content: "This is a test file."
 
+
+
 - `.py`: Python script. Default content:
+
 ```python
  print('This file was automatically generated.')
  ```
 
 - `.js`: JavaScript file. Default content: console.log('This file was automatically generated.');
 
+```js
+console.log('This file was automatically generated.'))
+ ```
+
 - `.html`: HTML file. Default content: <html><body><h1>This file was automatically generated.</h1></body></html>
 
-- `.css`: CSS file. Default content: body { background-color: lightblue; }
+```html
+ <html><body><h1>This file was automatically generated.</h1></body></html>
+ ```
+
+- `.css`: 
+
+```css
+ CSS file. Default content: body { background-color: lightblue; }
+ ```
 
 If a file with a different extension is created, the default content will be "This is a test file."
 
