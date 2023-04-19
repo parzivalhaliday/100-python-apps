@@ -27,7 +27,8 @@ The script supports the following file extensions:
 
 - `.html`: HTML file. Default content: <html><body><h1>This file was automatically generated.</h1></body></html>
 
-- `.css`: CSS file. Default content: ```body { background-color: lightblue; }```
+- `.css`: CSS file. Default content: ```css
+body { background-color: lightblue; }```
 
 If a file with a different extension is created, the default content will be "This is a test file."
 
