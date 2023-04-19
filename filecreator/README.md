@@ -19,8 +19,12 @@ If you chose not to save the file, it will be deleted.
 ## Supported File Types and Default Content
 The script supports the following file extensions:
 
-- `.txt`: Plain text file. Default content: "This is a test file."
+- `.txt`: Plain text file. Default content: 
 
+```
+"This is a test file."
+
+```
 
 
 - `.py`: Python script. Default content:
@@ -31,17 +35,17 @@ The script supports the following file extensions:
 
 - `.js`: JavaScript file. Default content: console.log('This file was automatically generated.');
 
-```js
+```javascript
 console.log('This file was automatically generated.'))
  ```
 
-- `.html`: HTML file. Default content: <html><body><h1>This file was automatically generated.</h1></body></html>
+- `.html`: HTML file. Default content:
 
 ```html
  <html><body><h1>This file was automatically generated.</h1></body></html>
  ```
 
-- `.css`: 
+- `.css`:  CSS file. Default content:
 
 ```css
  CSS file. Default content: body { background-color: lightblue; }
