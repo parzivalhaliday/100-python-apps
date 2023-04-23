@@ -1,8 +1,10 @@
 # Image Resizer
 Image Resizer is a Python script that allows you to reduce the size of an image file by resizing it and changing its quality. It supports the following file formats: JPG, JPEG, and PNG.
 
+![image](https://github.com/parzivalhaliday/python-apps/blob/main/zip/image.png)
+
 ## Installation
-To use the script, you need to have Python 3.x installed on your computer. If you don't have Python installed, you can download it from the official website.
+To use the script, you need to have Python 3.x installed on your computer. If you don't have Python installed, you can download it from the [official website](https://www.python.org/downloads/).
 
 After installing Python, you need to install the required Python packages. You can do this by running the following command in your terminal:
 
