@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 This will install the `pillow` and `tkinter` packages, which are needed to run the script.
 
-## IUsage
+## Usage
 To use the script, follow these steps:
 
 1. Open a terminal and navigate to the directory where the script is located.
@@ -51,7 +51,7 @@ The following options are available when running the script:
 
 - Batch Processing: Choose to process multiple files at once. A file selection dialog will appear where you can choose one or more files to process.
 
-Requirements
+## Requirements
 - Python 3.x
 - pillow==8.4.0
 - tkinter==8.6
