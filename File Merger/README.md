@@ -2,6 +2,9 @@
 
 File Merger is a Python program that allows you to merge various types of image files (such as PNG, JPEG, and GIF) with a text file. The merged file can be useful for adding annotations, captions, or metadata to images.
 
+![image](https://github.com/parzivalhaliday/python-apps/blob/main/File%20Merger/image.png)
+
+
 ## Requirements
 
 - Python 3.x
