@@ -1,0 +1,130 @@
+Customerid,Salesid,Name,Product,Price,Date,Address,Payment Method,Shipping Status,Stock Status
+902161,salesid,Name,Product,Price,Date,Address,Payment Method,Shipping Status,Stock Status
+281521,931376,Name,Product,Price,Date,Address,Payment Method,Shipping Status,Stock Status
+164756,862895,John Smith,Pen,10,2023-06-10,London,Credit Card,Shipped,True
+125224,152883,Emma Johnson,Notebook,15,2023-06-09,New York,Cash,Shipped,False
+386470,878083,William Davis,Eraser,5,2023-06-11,Los Angeles,Credit Card,Preparing,True
+320057,435526,Olivia Wilson,Marker,8,2023-06-08,San Francisco,Credit Card,Preparing,True
+560945,377371,James Jones,Pencil,3,2023-06-12,Chicago,Cash,Preparing,True
+916122,405926,Charlotte Brown,Book,12,2023-06-10,Houston,Credit Card,Shipped,True
+779540,797147,Daniel Taylor,Ruler,2,2023-06-11,Miami,Cash,Preparing,True
+161150,310015,Sophia Miller,Scissors,6,2023-06-09,Seattle,Credit Card,Shipped,True
+839709,636728,Benjamin Anderson,Calculator,20,2023-06-12,Boston,Credit Card,Preparing,True
+715629,552977,Mia Martinez,Stapler,4,2023-06-10,Denver,Cash,Preparing,True
+153013,153185,Liam Clark,Folder,7,2023-06-08,Dallas,Cash,Preparing,True
+340124,847751,Ava Rodriguez,Highlighter,3,2023-06-10,Phoenix,Credit Card,Shipped,True
+920292,845078,Jacob Lewis,Desk Organizer,18,2023-06-09,Austin,Credit Card,Shipped,True
+683812,666613,Isabella Lee,Note Cards,6,2023-06-11,Philadelphia,Cash,Preparing,True
+957253,638042,Noah Hall,Clipboard,5,2023-06-10,San Diego,Credit Card,Preparing,True
+819638,748080,Sophia Walker,Glue Stick,2,2023-06-12,Portland,Credit Card,Preparing,True
+587699,627147,William Harris,Tape Dispenser,9,2023-06-09,Atlanta,Cash,Preparing,True
+866689,366767,Olivia Clark,Calculator,12,2023-06-10,Seattle,Cash,Preparing,True
+870216,175267,Ethan Anderson,Sticky Notes,4,2023-06-11,Houston,Credit Card,Shipped,True
+197673,478344,Amelia White,Scissors,6,2023-06-10,Denver,Cash,Preparing,True
+832795,942068,Henry Wilson,Stapler Remover,3,2023-06-09,San Francisco,Cash,Preparing,True
+822345,116292,Sophia Smith,Paper Clips,2,2023-06-12,New York,Credit Card,Preparing,True
+798703,148963,Michael Johnson,Whiteboard,25,2023-06-11,Los Angeles,Credit Card,Preparing,True
+181758,249792,Emily Davis,Notebook,15,2023-06-10,London,Cash,Shipped,True
+112946,305209,Alexander Wilson,Highlighter,3,2023-06-09,Boston,Credit Card,Shipped,True
+631869,348123,Sophia Taylor,Pen,10,2023-06-12,Chicago,Credit Card,Preparing,True
+581350,646333,William Miller,Eraser,5,2023-06-11,Miami,Cash,Preparing,True
+951660,397452,Olivia Anderson,Pencil,3,2023-06-10,Seattle,Cash,Preparing,True
+629150,439944,James Martinez,Folder,7,2023-06-08,Denver,Credit Card,Preparing,True
+283562,145325,Sophia Clark,Desk Organizer,18,2023-06-10,Austin,Credit Card,Shipped,True
+704388,726937,Benjamin Rodriguez,Note Cards,6,2023-06-09,Philadelphia,Cash,Preparing,True
+269735,624246,Ava Lewis,Clipboard,5,2023-06-12,Phoenix,Credit Card,Preparing,True
+535832,589461,Jacob Lee,Glue Stick,2,2023-06-10,Portland,Cash,Preparing,True
+955536,731180,Isabella Hall,Tape Dispenser,9,2023-06-11,Dallas,Cash,Preparing,True
+713940,185172,Noah Walker,Calculator,12,2023-06-10,Los Angeles,Credit Card,Shipped,True
+655562,138138,Sophia Harris,Stapler,4,2023-06-12,Houston,Cash,Preparing,True
+322446,668036,Emma Clark,Scissors,6,2023-06-11,San Francisco,Cash,Preparing,True
+943774,535817,Oliver Wilson,Paper Clips,2,2023-06-10,Seattle,Credit Card,Preparing,True
+807884,925732,Liam Smith,Whiteboard,25,2023-06-09,New York,Credit Card,Preparing,True
+177529,131143,Emily Johnson,Notebook,15,2023-06-10,London,Cash,Shipped,True
+275061,455135,Alexander Davis,Highlighter,3,2023-06-09,Boston,Credit Card,Shipped,True
+278378,306652,Sophia Wilson,Pen,10,2023-06-12,Chicago,Credit Card,Preparing,True
+578373,539086,William Miller,Eraser,5,2023-06-11,Miami,Cash,Preparing,True
+176331,493380,Olivia Anderson,Pencil,3,2023-06-10,Seattle,Cash,Preparing,True
+315190,702087,James Martinez,Folder,7,2023-06-08,Denver,Credit Card,Preparing,True
+897562,760597,Sophia Clark,Desk Organizer,18,2023-06-10,Austin,Credit Card,Shipped,True
+805822,496816,Benjamin Rodriguez,Note Cards,6,2023-06-09,Philadelphia,Cash,Preparing,True
+803210,868780,Ava Lewis,Clipboard,5,2023-06-12,Phoenix,Credit Card,Preparing,True
+302594,947022,Jacob Lee,Glue Stick,2,2023-06-10,Portland,Cash,Preparing,True
+218043,885628,Isabella Hall,Tape Dispenser,9,2023-06-11,Dallas,Cash,Preparing,True
+537275,997269,Noah Walker,Calculator,12,2023-06-10,Los Angeles,Credit Card,Shipped,True
+499227,922510,Sophia Harris,Stapler,4,2023-06-12,Houston,Cash,Preparing,True
+214097,771350,Emma Clark,Scissors,6,2023-06-11,San Francisco,Cash,Preparing,True
+373362,575588,Oliver Wilson,Paper Clips,2,2023-06-10,Seattle,Credit Card,Preparing,True
+221006,864493,Liam Smith,Whiteboard,25,2023-06-09,New York,Credit Card,Preparing,True
+205197,383678,Emily Johnson,Notebook,15,2023-06-10,London,Cash,Shipped,True
+740026,926551,Alexander Davis,Highlighter,3,2023-06-09,Boston,Credit Card,Shipped,True
+362352,572281,Sophia Wilson,Pen,10,2023-06-12,Chicago,Credit Card,Preparing,True
+290017,521930,William Miller,Eraser,5,2023-06-11,Miami,Cash,Preparing,True
+620441,723549,Olivia Anderson,Pencil,3,2023-06-10,Seattle,Cash,Preparing,True
+568024,966567,James Martinez,Folder,7,2023-06-08,Denver,Credit Card,Preparing,True
+336601,321423,Sophia Clark,Desk Organizer,18,2023-06-10,Austin,Credit Card,Shipped,True
+934678,803610,Benjamin Rodriguez,Note Cards,6,2023-06-09,Philadelphia,Cash,Preparing,True
+875981,418299,Ava Lewis,Clipboard,5,2023-06-12,Phoenix,Credit Card,Preparing,True
+117240,222909,Jacob Lee,Glue Stick,2,2023-06-10,Portland,Cash,Preparing,True
+484946,422668,Isabella Hall,Tape Dispenser,9,2023-06-11,Dallas,Cash,Preparing,True
+593419,904529,Noah Walker,Calculator,12,2023-06-10,Los Angeles,Credit Card,Shipped,True
+459424,598513,Sophia Harris,Stapler,4,2023-06-12,Houston,Cash,Preparing,True
+351716,708611,Emma Clark,Scissors,6,2023-06-11,San Francisco,Cash,Preparing,True
+210293,552045,Oliver Wilson,Paper Clips,2,2023-06-10,Seattle,Credit Card,Preparing,True
+138203,990126,Liam Smith,Whiteboard,25,2023-06-09,New York,Credit Card,Preparing,True
+381831,257557,Emily Johnson,Notebook,15,2023-06-10,London,Cash,Shipped,True
+668410,616452,Alexander Davis,Highlighter,3,2023-06-09,Boston,Credit Card,Shipped,True
+508650,907506,Sophia Wilson,Pen,10,2023-06-12,Chicago,Credit Card,Preparing,True
+712798,890258,William Miller,Eraser,5,2023-06-11,Miami,Cash,Preparing,True
+389783,902920,Olivia Anderson,Pencil,3,2023-06-10,Seattle,Cash,Preparing,True
+623527,906052,James Martinez,Folder,7,2023-06-08,Denver,Credit Card,Preparing,True
+942936,143444,Sophia Clark,Desk Organizer,18,2023-06-10,Austin,Credit Card,Shipped,True
+581067,248548,Benjamin Rodriguez,Note Cards,6,2023-06-09,Philadelphia,Cash,Preparing,True
+322810,900416,Ava Lewis,Clipboard,5,2023-06-12,Phoenix,Credit Card,Preparing,True
+147578,400206,Jacob Lee,Glue Stick,2,2023-06-10,Portland,Cash,Preparing,True
+265796,135083,Isabella Hall,Tape Dispenser,9,2023-06-11,Dallas,Cash,Preparing,True
+761684,483883,Noah Walker,Calculator,12,2023-06-10,Los Angeles,Credit Card,Shipped,True
+664958,570106,Sophia Harris,Stapler,4,2023-06-12,Houston,Cash,Preparing,True
+370214,716437,Emma Clark,Scissors,6,2023-06-11,San Francisco,Cash,Preparing,True
+923944,931092,Oliver Wilson,Paper Clips,2,2023-06-10,Seattle,Credit Card,Preparing,True
+212655,571846,Liam Smith,Whiteboard,25,2023-06-09,New York,Credit Card,Preparing,True
+461581,502805,Emily Johnson,Notebook,15,2023-06-10,London,Cash,Shipped,True
+289493,453922,Alexander Davis,Highlighter,3,2023-06-09,Boston,Credit Card,Shipped,True
+689635,581415,Sophia Wilson,Pen,10,2023-06-12,Chicago,Credit Card,Preparing,True
+962556,910195,William Miller,Eraser,5,2023-06-11,Miami,Cash,Preparing,True
+463881,703131,Olivia Anderson,Pencil,3,2023-06-10,Seattle,Cash,Preparing,True
+995471,635544,James Martinez,Folder,7,2023-06-08,Denver,Credit Card,Preparing,True
+459498,207812,Sophia Clark,Desk Organizer,18,2023-06-10,Austin,Credit Card,Shipped,True
+420166,243708,Benjamin Rodriguez,Note Cards,6,2023-06-09,Philadelphia,Cash,Preparing,True
+820975,230625,Ava Lewis,Clipboard,5,2023-06-12,Phoenix,Credit Card,Preparing,True
+128360,818616,Jacob Lee,Glue Stick,2,2023-06-10,Portland,Cash,Preparing,True
+211204,706550,Isabella Hall,Tape Dispenser,9,2023-06-11,Dallas,Cash,Preparing,True
+181295,795147,Noah Walker,Calculator,12,2023-06-10,Los Angeles,Credit Card,Shipped,True
+429649,742503,Sophia Harris,Stapler,4,2023-06-12,Houston,Cash,Preparing,True
+845630,790139,Emma Clark,Scissors,6,2023-06-11,San Francisco,Cash,Preparing,True
+142397,844187,Oliver Wilson,Paper Clips,2,2023-06-10,Seattle,Credit Card,Preparing,True
+848477,710010,Liam Smith,Whiteboard,25,2023-06-09,New York,Credit Card,Preparing,True
+898204,603514,Emily Johnson,Notebook,15,2023-06-10,London,Cash,Shipped,True
+857890,137394,Alexander Davis,Highlighter,3,2023-06-09,Boston,Credit Card,Shipped,True
+192722,290569,Sophia Wilson,Pen,10,2023-06-12,Chicago,Credit Card,Preparing,True
+941574,881116,William Miller,Eraser,5,2023-06-11,Miami,Cash,Preparing,True
+699008,376449,Olivia Anderson,Pencil,3,2023-06-10,Seattle,Cash,Preparing,True
+168739,203906,James Martinez,Folder,7,2023-06-08,Denver,Credit Card,Preparing,True
+933015,432837,Sophia Clark,Desk Organizer,18,2023-06-10,Austin,Credit Card,Shipped,True
+726419,797895,Benjamin Rodriguez,Note Cards,6,2023-06-09,Philadelphia,Cash,Preparing,True
+592327,318506,Ava Lewis,Clipboard,5,2023-06-12,Phoenix,Credit Card,Preparing,True
+961401,741041,Jacob Lee,Glue Stick,2,2023-06-10,Portland,Cash,Preparing,True
+972986,649371,Isabella Hall,Tape Dispenser,9,2023-06-11,Dallas,Cash,Preparing,True
+347004,695052,Noah Walker,Calculator,12,2023-06-10,Los Angeles,Credit Card,Shipped,True
+383447,323344,Sophia Harris,Stapler,4,2023-06-12,Houston,Cash,Preparing,True
+826100,741724,Emma Clark,Scissors,6,2023-06-11,San Francisco,Cash,Preparing,True
+857347,843106,Oliver Wilson,Paper Clips,2,2023-06-10,Seattle,Credit Card,Preparing,True
+500801,802096,Liam Smith,Whiteboard,25,2023-06-09,New York,Credit Card,Preparing,True
+253052,380897,Emily Johnson,Notebook,15,2023-06-10,London,Cash,Shipped,True
+628010,350208,Alexander Davis,Highlighter,3,2023-06-09,Boston,Credit Card,Shipped,True
+214574,693717,Sophia Wilson,Pen,10,2023-06-12,Chicago,Credit Card,Preparing,True
+942715,389456,William Miller,Eraser,5,2023-06-11,Miami,Cash,Preparing,True
+414395,493624,Olivia Anderson,Pencil,3,2023-06-10,Seattle,Cash,Preparing,True
+468714,698315,James Martinez,Folder,7,2023-06-08,Denver,Credit Card,Preparing,True
+511567,519552,Sophia Clark,Desk Organizer,18,2023-06-10,Austin,Credit Card,Shipped,True
+867430,310268,Benjamin Rodriguez,Note Cards,6,2023-06-09,Philadelphia,Cash,Preparing,True
