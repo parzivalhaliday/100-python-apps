@@ -2,7 +2,7 @@
 
 GitHub2FAKeyGen is a Python application that automates the generation of two-factor authentication (2FA) codes for GitHub, making the 2FA login process more convenient.
 
-![GitHub2FAKeyGen](https://github.com/parzivalhaliday/100-python-apps/blob/GitHub2FAKeyGen/images/GitHub2FAKeyGen.png)
+![GitHub2FAKeyGen](https://github.com/parzivalhaliday/100-python-apps/blob/main/GitHub2FAKeyGen/GitHub2FAKeyGen.png)
 
 ## How to Use
 
