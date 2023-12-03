@@ -2,7 +2,7 @@
 
 Exif Data Editor is a Python program that allows you to merge various types of image files (such as PNG, JPEG, and GIF) with a text file. The merged file can be useful for adding annotations, captions, or metadata to images.
 
-![exiddataeditor](https://github.com/parzivalhaliday/100-python-apps/blob/main/Exif%20Data%20Editor/merged_file-edited.png)
+![exiddataeditor](https://github.com/parzivalhaliday/100-python-apps/blob/main/Exif%20Data%20Editor/image.png)
 
 ## Requirements
 
