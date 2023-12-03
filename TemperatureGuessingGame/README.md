@@ -2,6 +2,8 @@
 
 This is a Python program that tests the player's knowledge of capital city temperatures using the OpenWeatherMap API. The game is played over 10 rounds, with each round asking the player to guess the temperature of a randomly selected capital city.
 
+![tempguespng](https://github.com/parzivalhaliday/100-python-apps/blob/main/TemperatureGuessingGame/image.png)
+
 # How to Play
 To play the game, simply run the `temperature_guessing_game.py` file in a Python environment. The program will prompt the player to guess the temperature of a capital city, and the player can input their guess as an integer value.
 
