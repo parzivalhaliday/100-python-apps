@@ -3,7 +3,7 @@ import pyperclip  # Import the pyperclip library
 import subprocess
 
 # Get the TOTP secret key from GitHub (Replace with your own key)
-secret_key = "VWIBKXUETAXZ7IZ6"  # Replace with your own QR code data
+secret_key = "REPLACEYOURKEY"  # Replace with your own QR code data
 
 # Generate a 2FA code using PyOTP
 totp = pyotp.TOTP(secret_key)
