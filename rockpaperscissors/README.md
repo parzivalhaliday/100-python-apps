@@ -15,7 +15,6 @@ Overall, this code is designed to be a simple, interactive game that allows user
 ## To run this code in Visual Studio Code, you can follow these steps:
 
 
-
 1. Open Visual Studio Code and create a new Python file by clicking on "File" > "New File".
 
 2. Copy and paste the code into the new file.
