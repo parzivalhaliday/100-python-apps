@@ -2,7 +2,7 @@
 
 Discord2FAKeyGen is a Python application that automates the generation of two-factor authentication (2FA) codes for Discord, making the 2FA login process more convenient.
 
-![Discord2FAKeyGen](https://github.com/parzivalhaliday/100-python-apps/blob/main/Discord2FAKeyGen/Discord2FAKeyGen.png)
+![Discord2FAKeyGen](https://Discord.com/parzivalhaliday/100-python-apps/blob/main/Discord2FAKeyGen/Discord2FAKeyGen.png)
 
 ## How to Use
 

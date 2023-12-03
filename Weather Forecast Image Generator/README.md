@@ -5,15 +5,10 @@ This Python script generates an image that displays the 3-hour weather forecast 
 ## Libraries Used
 
 `calendar` for day abbreviations and names
-
 `requests` for making HTTP requests to the API
-
 `PIL` (Python Imaging Library) for creating and manipulating the image
-
 `matplotlib` for displaying the image
-
 `seaborn` for setting the color palette of the plot
-
 
 ## API Key
 
@@ -33,7 +28,7 @@ Install the required libraries using the following command:
 
 *`pip install -r requirements.txt`*
 
-[Sign up for an API key from OpenWeatherMap](https://home.openweathermap.org/api_keys).
+Sign up for an API key from OpenWeatherMap.
 Replace the `api_key` variable in the script with your API key.
 Run the script and enter the city name when prompted.
 The image will be displayed on the screen.

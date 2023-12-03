@@ -1,9 +1,6 @@
 # Password Cracking Time Estimation Program
 This is a simple Python program that estimates the time it would take to crack a given password based on its length and character set.
 
-
-![image](https://github.com/parzivalhaliday/python-apps/blob/main/Password%20Strength/image.png)
-
 ## How to Use
 1. Clone the repository or download the `Password_Strength.py` file.
 

@@ -1,0 +1,12 @@
+{
+    "firstName":"parzival",
+    "lastName":"dinc",
+    "hobbies": ["oyun","sinema"],
+    "age":23,
+    "children": [
+        {
+            "firstName": "knauc",
+            "age":3
+        }
+    ]
+}
