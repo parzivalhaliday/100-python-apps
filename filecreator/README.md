@@ -1,6 +1,8 @@
 # File Creator
 This is a Python script that allows the user to create files with different extensions and add content to them.
 
+![image](https://github.com/parzivalhaliday/100-python-apps/blob/main/filecreator/image.png)
+
 ## How to Use
 Run the `file_creator.py` script.
 
