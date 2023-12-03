@@ -1,7 +1,7 @@
 ## ***Rock-Paper-Scissors Game with User Input and Score Tracking in Python***
 
 
-
+![image](https://github.com/parzivalhaliday/100-python-apps/blob/main/rockpaperscissors/image.png)
 
 
 The code implements a simple rock-paper-scissors game between the user and the computer. It asks the user for their nickname and then enters into a loop that plays rounds of the game until the user chooses to stop. Each round of the game, the user inputs their choice (rock, paper, or scissors) and the computer randomly generates its own choice. The program then determines the winner of the round and updates the score accordingly. After each round, the program displays the current score and asks the user if they want to play again.
@@ -9,6 +9,9 @@ The code implements a simple rock-paper-scissors game between the user and the c
 Once the user chooses to stop playing, the program determines the winner of the game based on the total score and displays a final message with the results. The program also includes error handling for invalid user inputs and includes comments to explain each part of the code.
 
 Overall, this code is designed to be a simple, interactive game that allows users to play rock-paper-scissors against the computer and keep track of their score.
+
+
+
 ## To run this code in Visual Studio Code, you can follow these steps:
 
 
