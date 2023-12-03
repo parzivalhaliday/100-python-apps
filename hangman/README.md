@@ -1,6 +1,6 @@
 # Hangman Game
 This is a simple implementation of the classic Hangman game in Python. In this game, the computer generates a random word, and the player needs to guess the word by suggesting letters one at a time. The player is allowed a maximum number of wrong guesses, and for each wrong guess, the computer draws a part of the "hanging man." If the player cannot guess the word within the allowed number of wrong guesses, the game is over, and the player loses.
-
+![image](https://github.com/parzivalhaliday/100-python-apps/blob/main/hangman/image.png)
 ## Requirements
 This game requires the `random_words` library to be installed. You can install it using the following command:
 
