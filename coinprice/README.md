@@ -2,7 +2,7 @@
 
 
 This Python script retrieves the current price and the price history of a popular cryptocurrency. You can choose a cryptocurrency from a list of popular coins, and the script will fetch its current price in USD from the CoinGecko API. It will also generate a graph of the coin's price over the last 5 days.
-
+![coinprice](https://github.com/parzivalhaliday/100-python-apps/blob/main/coinprice/image.png)
 
 
 ## Libraries Used
