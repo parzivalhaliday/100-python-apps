@@ -1,6 +1,7 @@
 import random
 from random_words import RandomWords
 
+
 rw = RandomWords()
 
 # Welcome message and instruction
