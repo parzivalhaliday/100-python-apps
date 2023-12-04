@@ -2,7 +2,7 @@ import requests
 import random
 
 # TMDb API key
-api_key = "0f07e31867110e665a9b2c304b153eb9"
+api_key = "yourapikey"
 
 def search_movie(movie_name):
     # Search for a movie by name using TMDb API
