@@ -3,7 +3,7 @@
 This is a simple Python application that recommends movies based on user input, utilizing the TMDb (The Movie Database) API.
 
 
-![image](https://github.com/parzivalhaliday/100-python-apps/blob/main/password/image.png)
+![image](https://github.com/parzivalhaliday/100-python-apps/blob/main/filmdatabase/image.png)
 
 
 ## Prerequisites
