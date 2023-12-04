@@ -23,7 +23,6 @@ Before you start, make sure you have the following:
 ```python
 py movierecommendation.py
 ```
-4. Enter the password you want to estimate the cracking time for.
 
 ## Requirements
 
