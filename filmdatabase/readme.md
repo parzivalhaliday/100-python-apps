@@ -25,6 +25,12 @@ py movierecommendation.py
 ```
 4. Enter the password you want to estimate the cracking time for.
 
+## Requirements
+
+- Python 3.x
+- No additional libraries or dependencies required.
+
+
 ## Features
 
 - **Get Movie Recommendation by Entering Movie Names**: Input three movie names, and the app suggests a movie based on the common genre of those movies.
@@ -32,10 +38,6 @@ py movierecommendation.py
 - **Get Random Movie Recommendation with IMDb Rating 8 or Above**: Provides a random movie recommendation with an IMDb rating of 8 or above.
 
 
-## Requirements
-
-- Python 3.x
-- No additional libraries or dependencies required.
 
 ## Contributing
 Contributions are welcome! If you have any ideas for features or improvements, feel free to submit a pull request or open an issue.
