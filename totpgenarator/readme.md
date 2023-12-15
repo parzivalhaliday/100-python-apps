@@ -60,7 +60,7 @@ Feel free to suggest additional features or improvements by opening an issue or 
 
 
 ## Contributing
-Contributions are welcome! If you have any ideas for features or improvements, feel free to submit a pull request or open an issue.
+Contributions are welcome! If you have any ideas for features or improvements, feel free to submit a pull request or open an issue. 
 
 ## License
 You can use the code however you want.
