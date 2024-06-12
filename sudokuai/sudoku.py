@@ -1,6 +1,6 @@
 import pygame
 import random
-
+# doesn't work
 def create_board():
     # 9x9'lik boş bir tahta oluşturun
     board = [[0 for _ in range(9)] for _ in range(9)]
