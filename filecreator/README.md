@@ -1,44 +1,53 @@
-# File Creator
-This is a Python script that allows the user to create files with different extensions and add content to them.
+# 🐍 Python Mini Apps Collection
+A collection of 100 Python applications in a single repository.
+
+## 🚀 Projects
+
+### 5. 📁 File Creator
+A Python application that generates files of various types with customizable content.
+*Location: `/filecreator`*
 
 ![image](https://github.com/parzivalhaliday/100-python-apps/blob/main/filecreator/image.png)
 
-## How to Use
-Run the `file_creator.py` script.
+#### ✨ Features
 
-Enter the name of the file you want to create, including the file extension.
+##### 🔄 Core Functionality
+- 📄 Multiple file format support
+- ✏️ Custom content creation
+- 💾 Save/delete options
+- 🔄 Interactive file handling
 
-If you want to add content to the file, enter "yes" when prompted. Otherwise, enter "no".
+##### 🛠️ Supported File Types
+- 📝 Text files (.txt)
+- 🐍 Python scripts (.py)
+- 🌐 JavaScript files (.js)
+- 🎨 HTML files (.html)
+- 🎯 CSS files (.css)
 
-If you chose to add content, enter the content for the file when prompted.
+##### 🛡️ Default Templates
+- 📄 TXT: "This is a test file."
+- 🐍 PY: `print('This file was automatically generated.')`
+- 🌐 JS: `console.log('This file was automatically generated.');`
+- 🎨 HTML: Basic HTML structure
+- 🎯 CSS: Simple styling template
 
-The file will be created with the specified name and content.
+##### 💡 Usage
+- 🔧 Simple operation:
+  1. Run `file_creator.py`
+  2. Enter file name with extension
+  3. Choose to add content (yes/no)
+  4. Enter custom content if desired
+  5. Choose to save file (yes/no)
+- 📝 Interactive prompts guide you
 
-If you want to save the file, enter "yes" when prompted. Otherwise, enter "no".
+#### 🔧 Requirements
+- Python 3.x
+- No additional packages required
 
-If you chose not to save the file, it will be deleted.
+#### 📜 License
+MIT License
 
-## Supported File Types and Default Content
-The script supports the following file extensions:
-
-- `.txt`: Plain text file. Default content: "This is a test file."
-
-- `.py`: Python script. Default content: print('This file was automatically generated.')
-
-- `.js`: JavaScript file. Default content: console.log('This file was automatically generated.');
-
-- `.html`: HTML file. Default content: <html><body><h1>This file was automatically generated.</h1></body></html>
-
-- `.css`: CSS file. Default content: body { background-color: lightblue; }
-
-If a file with a different extension is created, the default content will be "This is a test file."
-
-## Requirements
-`Python 3.x`
-
-## License
-
-This project is licensed under the terms of the MIT license.
+[📂 Go to Project →](/)
 
 
 

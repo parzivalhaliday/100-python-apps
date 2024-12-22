@@ -1,36 +1,44 @@
-# Password Cracking Time Estimation Program
-This is a simple Python program that estimates the time it would take to crack a given password based on its length and character set.
+# 🐍 Python Mini Apps Collection
+A collection of 100 Python applications in a single repository.
+
+## 🚀 Projects
+
+### 10. 🔒 Password Strength Analyzer
+A Python application that estimates password cracking time and evaluates security.
+*Location: `/Password Strength`*
 
 ![github2fa](https://github.com/parzivalhaliday/100-python-apps/blob/main/Password%20Strength/image.png)
 
-## How to Use
-1. Clone the repository or download the `Password_Strength.py` file.
+#### ✨ Features
 
-2. Open the terminal and navigate to the directory where the `Password_Strength.py` file is located.
+##### 🔄 Core Functionality
+- 🔐 Password strength evaluation
+- ⏱️ Cracking time estimation
+- 📊 Complexity analysis
+- 💪 Security rating system
 
-3. Run the following command to execute the program:
+##### 🛠️ Technical Details
+- 🧮 Advanced calculation algorithms
+- 🔢 Billion guesses per second simulation
+- 📈 Complexity metrics
+- ⚡ Real-time analysis
 
-```python
-py Password_Strength.py
-```
-4. Enter the password you want to estimate the cracking time for.
+##### 🛡️ Security Metrics
+- ✅ Length verification
+- 🔍 Character set analysis
+- 🎯 Strength categorization
+- ⚠️ Security recommendations
 
-## Features
-- Estimates the password length and number of possible combinations.
+##### 💡 Usage
+- 🔧 Simple operation:
+  1. Run `Password_Strength.py`
+  2. Enter password
+  3. View detailed analysis
+  4. Get security feedback
+- 📝 Comprehensive results
 
-- Calculates the estimated number of guesses required to crack the password, assuming 1 billion guesses per second.
-
-- Estimates the time required to crack the password in years, days, hours, minutes, or seconds.
-
-- Provides feedback on the strength of the password (weak, medium, or strong) based on its length and complexity.
-
-## Requirements
-
+#### 🔧 Requirements
 - Python 3.x
-- No additional libraries or dependencies required.
+- No additional packages required
 
-## Contributing
-Contributions are welcome! If you have any ideas for features or improvements, feel free to submit a pull request or open an issue.
-
-## License
-You can use the code however you want.
+[📂 Go to Project →](/)

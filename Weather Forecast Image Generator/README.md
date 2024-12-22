@@ -1,35 +1,46 @@
-# Weather Forecast Image Generator using OpenWeatherMap API
+# 🐍 Python Mini Apps Collection
+A collection of 100 Python applications in a single repository.
 
-This Python script generates an image that displays the 3-hour weather forecast for the next five days for a user-specified city using the OpenWeatherMap API. The image includes the day abbreviation, date, temperature, humidity, and an emoji representing the weather condition.
+## 🚀 Projects
 
-## Libraries Used
+### 15. ☀️ Weather Forecast Image Generator
+A Python application that creates visual weather forecasts using OpenWeatherMap API.
+*Location: `/Weather Forecast Image Generator`*
 
-`calendar` for day abbreviations and names
-`requests` for making HTTP requests to the API
-`PIL` (Python Imaging Library) for creating and manipulating the image
-`matplotlib` for displaying the image
-`seaborn` for setting the color palette of the plot
+#### ✨ Features
 
-## API Key
+##### 🔄 Core Functionality
+- 🌤️ 5-day weather forecast
+- 🎨 Image generation
+- 🌡️ Temperature display
+- 💧 Humidity tracking
 
-An API key from OpenWeatherMap is required to access the weather data. You can obtain a free API key by creating an account on their website.
+##### 🛠️ Technical Details
+- 🌍 OpenWeatherMap API
+- 🎨 PIL image processing
+- 📊 Matplotlib plotting
+- 🎯 Seaborn styling
 
-## User Input
+##### 🛡️ Data Features
+- ✅ API validation
+- 📅 3-hour intervals
+- 🌍 City-based search
+- ⚠️ Error handling
 
-The user is prompted to enter the name of the city for which they want to know the weather forecast.
+##### 💡 Usage
+- 🔧 Simple operation:
+  1. Enter city name
+  2. Get forecast data
+  3. View generated image
+  4. Save or share
+- 📝 Clear visual output
 
+#### 🔧 Requirements
+- Python 3.x
+- OpenWeatherMap API key
+- Required packages:
+  ```bash
+  pip install requests Pillow matplotlib seaborn
+  ```
 
-## Output
-
-An image is generated displaying the 3-hour weather forecast for the next five days for the specified city.
-## Instructions
-
-Install the required libraries using the following command:
-
-*`pip install -r requirements.txt`*
-
-Sign up for an API key from OpenWeatherMap.
-Replace the `api_key` variable in the script with your API key.
-Run the script and enter the city name when prompted.
-The image will be displayed on the screen.
-Note: This script requires an internet connection to access the API and retrieve weather data.
+[📂 Go to Project →](/)
