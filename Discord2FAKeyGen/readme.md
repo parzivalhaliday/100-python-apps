@@ -1,46 +1,45 @@
-# Discord2FAKeyGen
+# 🐍 Python Mini Apps Collection
+A collection of 100 Python applications in a single repository.
 
-Discord2FAKeyGen is a Python application that automates the generation of two-factor authentication (2FA) codes for Discord, making the 2FA login process more convenient.
+## 🚀 Projects
+
+### 2. 🔐 Discord 2FA Key Generator
+A Python application that automates the generation of two-factor authentication (2FA) codes for Discord.
+*Location: `/Discord2FAKeyGen`*
 
 ![Discord2FAKeyGen](https://github.com/parzivalhaliday/100-python-apps/blob/main/Discord2FAKeyGen/Discord2FAKeyGen.png)
 
-## How to Use
+#### ✨ Features
 
-1. Clone the repository or download the `Discord2fakeygen.py` script.
+##### 🔄 Core Functionality
+- 🎯 Automated 2FA code generation
+- 📋 Automatic clipboard copying
+- 🔑 Secret key support
+- 🔄 Real-time code updates
 
-2. Open your terminal and navigate to the directory where the `Discord2fakeygen.py` script is located.
+##### 🛠️ Technical Details
+- 🔐 TOTP-based authentication
+- 🤖 Selenium automation
+- ⚡ Fast code generation
+- 🕒 Time-based synchronization
 
-3. Run the following command to execute the program:
+##### 🛡️ Security & Validation
+- ✅ Secure key handling
+- 🔒 Protected credential storage
+- ⚠️ Error handling
 
-```python Discord2fakeygen.py```
+##### 💡 Usage
+- 🔧 Simple setup process:
+  1. Enter Discord credentials
+  2. Input secret key
+  3. Get automatic 2FA codes
+- 📝 Clear console feedback
 
-4. You will be prompted to enter your Discord username and password.
-
-5. Next, enter the secret key, which you can obtain from your Discord account settings or by scanning the 2FA QR code.
-
-6. The program will generate a 2FA code and automatically copy it to your clipboard.
-
-7. Simply paste the code during the Discord login process.
-
-
-## Requirements
-
+#### 🔧 Requirements
 - Python 3.x
-- Required Python packages: pyotp, selenium
-To install the required packages, run the following:
+- Required packages:
+  ```bash
+  pip install pyotp selenium
+  ```
 
-```python
-pip install pyotp selenium
-```
-
-
-## Contributing
-Contributions are welcome! If you have any ideas for features or improvements, feel free to submit a pull request or open an issue.
-
-## License
-You can use the code however you want.
-
-## Issues
-If you encounter any problems while using the application or need assistance, please report them on the Discord Issues page.
-
-Enjoy smoother 2FA logins!
+[📂 Go to Project →](/)

@@ -32,5 +32,5 @@ An advanced steganography application that hides images in audio files and extra
   - `decode_audio_to_image()`
 - 📝 Clear console feedback
 
-[📂 Go to Project →](/audiotoimage)
+[📂 Projeye Git →](/)
                
