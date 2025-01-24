@@ -1,0 +1,26 @@
+Metin Şifreleme Aracı
+Kullanıcının metinlerini çeşitli şifreleme algoritmaları (Caesar, Vigenère, ROT13 vb.) kullanarak şifreleyip çözebilen bir uygulama
+QR Kod Oluşturucu
+Metin, URL veya kartvizit bilgilerini QR koda dönüştüren basit bir GUI uygulaması
+PDF Birleştirici/Ayırıcı
+Mevcut File Merger uygulamasına benzer şekilde, PDF dosyalarını birleştirme ve tek bir PDF'i sayfalara ayırma özelliği
+Sosyal Medya Fotoğraf Düzenleyici
+Fotoğrafları farklı sosyal medya platformlarının boyut gereksinimlerine göre otomatik kırpan/yeniden boyutlandıran araç
+Pomodoro Zamanlayıcı
+Çalışma ve mola sürelerini takip eden, bildirimler gönderen basit bir masaüstü uygulaması
+Dosya Organizatörü
+Belirli bir klasördeki dosyaları uzantılarına göre otomatik olarak kategorize eden ve düzenleyen program
+Ekran Görüntüsü Aracı
+Ekran görüntüsü alma, kırpma ve basit düzenlemeler yapabilme özellikleri olan uygulama
+Metin-Konuşma Dönüştürücü
+Yazılı metni sesli konuşmaya çeviren basit bir uygulama (gTTS kütüphanesi kullanılarak)
+Kur Dönüştürücü
+Mevcut coinprice uygulamasına benzer şekilde, farklı para birimleri arasında dönüşüm yapan program
+Not Defteri Uygulaması
+Markdown desteği olan, notları kategorize edebilen basit bir not alma uygulaması
+Her bir uygulama için önerilen özellikler:
+Basit ve kullanıcı dostu arayüz
+Hata yönetimi
+Temel dosya işlemleri
+Gerektiğinde API entegrasyonu
+Basit veri depolama
